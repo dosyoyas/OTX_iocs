@@ -1,0 +1,7 @@
+{
+    "otx_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "otx_users": ["otxrobottwo"],
+    "github_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "github_update_path": "https://api.github.com/repos/dosyoyas/OTX_iocs/contents/otx_malware_domains.txt",
+    "github_rawfile_path": "https://raw.githubusercontent.com/dosyoyas/OTX_iocs/master/otx_malware_domains.txt"
+}
