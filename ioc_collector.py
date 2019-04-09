@@ -24,7 +24,7 @@ class IOCCollector():
         iocs = []
         for user in self.users:
             iocs.extend(self.get_user_iocs(user))
-        return sorted(iocs)
+        return sorted(list(set(iocs)))
 
 
 class GitHubUpdater():
